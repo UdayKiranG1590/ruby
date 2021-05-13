@@ -1,6 +1,6 @@
-print "enter 1st number:"
+print "enter 1st num:"
 a=gets.to_f
-print "enter 2nd number:"
+print "enter 2nd num:"
 b=gets.to_f
 print "enter operator:"
 op=gets.chomp
